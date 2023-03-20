@@ -1,1 +1,1 @@
-# cds_fundamentos_de_ML
+# Disciplina de Fundamentos de Machine Learning da Comunidade DS 
